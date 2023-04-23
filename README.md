@@ -1,6 +1,12 @@
 # straight-font-to-unicode
 
-**If you are looking to convert a document typed in "Straight", just download the transcoder_StraightFont.docm file and follow the instructions in the document. The document contains 2 macros. Try the "straight-donna" one first.**
+Straight is a legacy font (actually 2 fonts) which was developed in the 1990s. The font is not Unicode-compliant, and documents typed in Straight should be converted (transcoded) into a Unicode-compliant font. These macros convert text typed in "Straight" into "BC Sans", but once they are in BC Sans they can be changed into any Unicode font.
+
+# TLDR;
+1. download the **transcoder_StraightFont.docm** file
+2. make sure you allow word to run macros in the document
+2. follow the instructions in the document
+4. the document contains 2 macros - if in doubt try the "straight- donna" one first
 
 ## Contents
 
