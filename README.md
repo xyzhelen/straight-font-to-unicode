@@ -21,7 +21,7 @@ https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-
 * Straight font:
 I can send you a copy of the font file if you email me. I also believe the macro will run if you have a font (ANY font) named "Straight" on your computer.
 
-## Two veresions of the macro
+## Two versions of the macro
 
 There are 2 macros designed to work with 2 different versions of the font. The original "Straight" font was created by the linguist Charles Ulrich sometime in the 1990s, when the Unicode standard did not contain all the characters needed to type APA phonetics. At the time, it only worked on Macintosh computers, so a Windows version was developed separately by another party which could work on Windows computers. The macros for them are named Straight-donna and Straight-barbara.
 
