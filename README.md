@@ -9,7 +9,6 @@ This repository contains:
 2. [*.py file] - a Python script that takes the list of character mappings and uses them to write a MS Word macro
 3. [*.bas] - MS Word macros that convert documents typed in the legacy font "Straight" into a Unicode-compliant font
 4. [*.docm] - a MS Word Macro-enabled Document, this is an easy way to get the macro working on your computer
-5. [*.pdf] - the "Straight" font glyphs (for 1 version of the font)
 
 ## Fonts
 
