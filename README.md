@@ -1,6 +1,6 @@
 # straight-font-to-unicode
 
-**If you are looking to convert a document typed in "Straight", just download the \*.docm file(s) and follow the instructions in the document. Try the "straight-donna" one first.**
+**If you are looking to convert a document typed in "Straight", just download the transcoder_StraightFont.docm file and follow the instructions in the document. The document contains 2 macros. Try the "straight-donna" one first.**
 
 ## Contents
 
